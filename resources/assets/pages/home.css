@@ -1,0 +1,27 @@
+.home-container .user-card {
+  background-color: #cde5ff;
+  padding: 25px;
+  border-radius: 2px;
+  margin: 5px 0;
+  overflow: none;
+}
+
+.home-container .user-card:hover {
+  cursor: pointer;
+  background-color: #cde5f0;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.home-container .user-card .user-fav {
+  z-index: 10;
+  background-color: white;
+  width: 25px;
+  height: 25px;
+}
+
+.home-container .user-card .user-fav:hover {
+  cursor: pointer;
+  background-color: black;
+}
+/*# sourceMappingURL=home.css.map */

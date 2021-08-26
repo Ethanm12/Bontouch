@@ -1,0 +1,47 @@
+// Colors
+$theme-green: #77bc1f;
+$theme-red: #ec1c24;
+$theme-red: #d6001c;
+$theme-dark: #414042;
+$theme-black: #231f20;
+$theme-light-grey: #49a1a2;
+$theme-beige-grey: #bab6b1;
+$missing-content: #D81E05;
+
+$perreaux-light-blue: #5bdeee;
+$perreaux-dark-blue: #00629b;
+$perreaux-orange: #f7941d;
+$perreaux-yellow: #FFC600;
+// Fonts
+
+@import url('https://fonts.googleapis.com/css?family=Inter:300,400,600,700,900');
+// @import url('https://fonts.googleapis.com/css?family=Inter');
+
+
+$font-family: 'Inter', sans-serif;
+$font-size-base: 1rem ;
+$font-size-lg:   1.25rem;
+$font-size-sm:   .875rem;
+$font-size-xs:   .75rem;
+
+// Links
+$link-color: $theme-black;
+
+// Nav
+$navbar-height: 70px;
+
+// Buttons
+$btn-border-radius: 1px;
+$btn-primary-bg: white;
+$btn-primary-color: $theme-dark;
+$btn-padding-x: 1.75rem;
+
+// Font weights
+$weight-light: 200;
+$weight-medium: 500;
+$weight-bold: 700;
+$weight-heavy: 900;
+
+
+// Padding
+$component-top-padding: 100px;

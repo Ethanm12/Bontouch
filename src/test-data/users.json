@@ -1,0 +1,44 @@
+[
+    {
+        "isFav" : false,
+        "firstName": "Ethan",
+        "lastName" : "",
+        "company" : "Bontouch",
+        "email" : "Ethan.m@bontouch.com"
+    },
+    {
+        "isFav" : false,
+        "firstName": "Hailey",
+        "lastName" : "",
+        "company" : "Bontouch",
+        "email" : "Ethan.m@bontouch.com"
+    },
+    {
+        "isFav" : false,
+        "firstName": "James",
+        "lastName" : "",
+        "company" : "Bontouch",
+        "email" : "Ethan.m@bontouch.com"
+    },
+    {
+        "isFav" : false,
+        "firstName": "Keith",
+        "lastName" : "",
+        "company" : "Bontouch",
+        "email" : "Ethan.m@bontouch.com"
+    },
+    {
+        "isFav" : false,
+        "firstName": "Jimmy",
+        "lastName" : "",
+        "company" : "Bontouch",
+        "email" : "Ethan.m@bontouch.com"
+    },
+    {
+        "isFav" : false,
+        "firstName": "Phil",
+        "lastName" : "",
+        "company" : "Bontouch",
+        "email" : "Ethan.m@bontouch.com"
+    }
+]
